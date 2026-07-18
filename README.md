@@ -33,7 +33,7 @@ Beyond building software, I am passionate about applied AI research—recently w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=saifmukadam10&icon=0&color=0)](https://visitcount.itsvg.in)
+![Views](https://komarev.com/ghvc/?username=saifmukadam10&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
