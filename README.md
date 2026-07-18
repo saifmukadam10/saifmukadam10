@@ -27,7 +27,7 @@ Beyond building software, I am passionate about applied AI research—recently w
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saifmukadam10&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saifmukadam10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-readme-trophies.vercel.app/?username=saifmukadam10)
 
 ### ✍️ My Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
