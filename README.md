@@ -11,7 +11,7 @@ Beyond building software, I am passionate about applied AI research—recently w
 * **🧠 I’m currently learning:** Advanced reinforcement learning strategies and optimizing large language model (LLM) orchestration using LangChain.
 * **👯 I’m looking to collaborate on:** Open-source AI/ML initiatives, intelligent healthcare tech, or innovative LLM-powered SaaS automation platforms.
 * **💬 Ask me about:** Deep Learning architectures (CNNs, Transformers), Computer Vision (`OpenCV`, `MediaPipe`), Generative AI, or bridging `FastAPI`/`Flask` with AI pipelines.
-* **⚡ Fun fact:** I built a reinforcement learning-backed SaaS that automates entire book publications from draft to reward scoring!
+
 
 ---
 
