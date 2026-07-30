@@ -26,8 +26,8 @@ Beyond building software, I am passionate about applied AI research—recently w
 ![](https://streak-stats.demolab.com/?user=saifmukadam10&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saifmukadam10&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=saifmukadam10&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=saifmukadam10&label=Profile+Views&color=000000&style=plastic" alt="profile-views" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br> 
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-readme-trophies.vercel.app/?username=saifmukadam10)
@@ -35,8 +35,11 @@ Beyond building software, I am passionate about applied AI research—recently w
 ### ✍️ My Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saifmukadam10/saifmukadam10/main/dont_forget_to_follow.svg" width="700">
+</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
