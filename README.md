@@ -1,16 +1,20 @@
 ## 🚀 About Me
 
-I am an **AI & Machine Learning Engineer** and **Python Developer** specializing in building intelligent systems for healthcare, computer vision, and automation. I have done my Undergrad in Computer Science with an AI/ML focus, I bridge the gap between complex deep learning models and scalable, production-ready applications. 
+I'm an AI & Machine Learning Engineer and Python Developer passionate about building intelligent, real-world AI systems that combine machine learning, deep learning, and large language models.
 
-Beyond building software, I am passionate about applied AI research—recently winning a **Best Paper Award (ICSSSD-2026)** and competing as a **Smart India Hackathon (SIH) 2025 Finalist** for my work on affordable, portable AI-driven healthcare solutions.
+Currently pursuing my **MSc in Computing Science (Multimedia)** at the **University of Alberta**, I enjoy developing end-to-end AI applications—from computer vision and multimodal learning to agentic AI systems powered by LLMs.
 
----
+My experience spans **Python, FastAPI, PyTorch, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Computer Vision, NLP, MLOps, and Generative AI**, with a strong focus on building scalable AI products rather than just research prototypes.
 
-### 🛠️ What I'm Up To:
-* **🔭 I’m currently working on:** Scaling deep learning systems for early-stage healthcare diagnostics and refining computer vision architectures.
-* **🧠 I’m currently learning:** Advanced reinforcement learning strategies and optimizing large language model (LLM) orchestration using LangChain.
-* **👯 I’m looking to collaborate on:** Open-source AI/ML initiatives, intelligent healthcare tech, or innovative LLM-powered SaaS automation platforms.
-* **💬 Ask me about:** Deep Learning architectures (CNNs, Transformers), Computer Vision (`OpenCV`, `MediaPipe`), Generative AI, or bridging `FastAPI`/`Flask` with AI pipelines.
+## 🛠️ What I'm Up To
+
+- 🔭 **Currently building:** A multi-agent AI research system using **LangChain** and **LangGraph**, featuring autonomous agent collaboration, planning, tool usage, and research workflows.
+- 🤖 **Previously built:** An agentic **RAG application** with document retrieval, semantic search, and LLM-powered question answering.
+- 👁️ **AI Research:** Developed an explainable glaucoma screening system using **ResNet-50**, **Mask R-CNN**, **U-Net**, **XGBoost**, and **Grad-CAM**, leading to a **Best Paper Award** at an international conference.
+- 🧠 **Currently learning:** Multi-agent orchestration, advanced LLM application development, multimodal AI (CLIP-style embeddings), and production-ready AI architectures.
+- 🌱 **Interested in:** Agentic AI, Generative AI, Computer Vision, Multimodal Learning, Retrieval-Augmented Generation (RAG), and AI systems that solve practical problems.
+- 👯 **Open to collaborating on:** Open-source AI projects involving Python, LLMs, LangChain, LangGraph, RAG, Computer Vision, MLOps, and Agentic AI.
+- ⚡ **Career goal:** To build intelligent AI systems that bridge research and real-world deployment as an AI/ML Engineer or Forward Deployment Engineer.
 
 
 ---
